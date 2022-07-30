@@ -44,6 +44,7 @@ label span {
 
 label input:checked~span {
     left: 150px;
-    background: url(Coffee_02.png);background-size: auto 150px;
+    background: url(Coffee_02.png);
+    background-size: auto 150px;
     background-repeat: no-repeat;
 }
