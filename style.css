@@ -55,7 +55,8 @@ label text {
     left: -120px;
     font-family: consolas;
     color: #fff;
-    font-size: 3em;filter: drop-shadow();
+    font-size: 3em;
+    filter: drop-shadow();
 }
 
 label text:last-child {
