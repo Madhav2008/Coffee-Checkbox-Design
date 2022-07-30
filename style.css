@@ -70,7 +70,7 @@ label text:last-child {
     left: initial;
     right: -100px;
     color: #8f8f8f;
-    filter: none;
+    filter: none;transition: 1.5s;
 }
 
 label input:checked~text:last-child {
