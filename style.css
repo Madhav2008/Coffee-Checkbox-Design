@@ -71,4 +71,6 @@ label text:last-child {
     right: -100px;
 }
 
-label input:checked~text:last-child {filter: drop-shadow(0 0 15px #fff) drop-shadow(0 0 35px #fff);}
+label input:checked~text:last-child {
+    filter: drop-shadow(0 0 15px #fff) drop-shadow(0 0 35px #fff);
+}
