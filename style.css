@@ -69,4 +69,6 @@ label text:last-child {
     position: absolute;
     left: initial;
     right: -100px;
-}label input:checked~text:last-child
+}
+
+label input:checked~text:last-child
