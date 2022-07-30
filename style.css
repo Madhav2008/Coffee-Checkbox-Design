@@ -47,5 +47,6 @@ label input:checked~span {
     background: url(Coffee_02.png);
     background-size: auto 150px;
     background-repeat: no-repeat;
-    transition: 1.5s;transform: rotate(-180deg);
+    transition: 1.5s;
+    transform: rotate(-180deg);
 }
