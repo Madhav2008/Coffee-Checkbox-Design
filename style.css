@@ -42,4 +42,6 @@ label span {
     transform-origin: 75px;
 }
 
-label input:checked~span {left: 0;}
+label input:checked~span {
+    left: 0;
+}
