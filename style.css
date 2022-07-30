@@ -12,7 +12,7 @@ body {
     background: radial-gradient(#555, #292929);
 }
 
-input[type="checkbox"] {
+label {
     position: relative;
     width: 100px;
     height: 40px;
