@@ -50,3 +50,5 @@ label input:checked~span {
     transition: 1.5s;
     transform: rotate(360deg);
 }
+
+label
