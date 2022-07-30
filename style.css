@@ -58,6 +58,6 @@ label text {
 }
 
 label text:last-child {
-    position: absolute;left: ;
+    position: absolute;left: initial;
     right: -100px;
 }
