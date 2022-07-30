@@ -47,7 +47,7 @@ label input:checked~span {
     background: url(Coffee_02.png);
     background-size: auto 150px;
     background-repeat: no-repeat;
-    transform: rotate(360deg);
+    transform: rotate(360deg);transition: 1.5s;
 }
 
 label text {
