@@ -56,7 +56,8 @@ label text {
     font-family: consolas;
     color: #fff;
     font-size: 3em;
-    filter: drop-shadow(0 0 15px #fff) drop-shadow(0 0 35px #fff);transition: 1.5s;
+    filter: drop-shadow(0 0 15px #fff) drop-shadow(0 0 35px #fff);
+    transition: 1.5s;
 }
 
 label text:last-child {
