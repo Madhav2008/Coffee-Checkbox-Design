@@ -21,6 +21,6 @@ label {
     border-radius: 75px;
     cursor: pointer;
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: ;
     transition: 0.5s;
 }
