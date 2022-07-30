@@ -30,4 +30,6 @@ label input {
     appearance: none;
 }
 
-label span {position: absolute;}
+label span {
+    position: absolute;
+}
