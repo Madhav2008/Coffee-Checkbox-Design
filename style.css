@@ -19,8 +19,7 @@ label {
     background: #3e3e3e;
     box-shadow: 0 0 0 4px #303030;
     border-radius: 75px;
-    -webkit-appearance: none;
-    outline: none;
+    
     transition: 0.5s;
     cursor: pointer;
 }
