@@ -57,7 +57,7 @@ label text {
     font-family: consolas;
 }
 
-label text {
+label text:last-child {
     position: absolute;
     left: -100px;
     font-family: consolas;
