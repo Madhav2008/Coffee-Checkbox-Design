@@ -20,6 +20,6 @@ label {
     box-shadow: 0 0 0 4px #303030;
     border-radius: 75px;
     cursor: pointer;
-    display: flex;justify-content: ;
+    display: flex;justify-content: center;
     transition: 0.5s;
 }
