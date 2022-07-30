@@ -17,7 +17,7 @@ label {
     width: 300px;
     height: 150px;
     background: #3e3e3e;
-    box-shadow: 0 0 0 4px;
+    box-shadow: 0 0 0 4px #303030;
     -webkit-appearance: none;
     outline: none;
     transition: 0.5s;
