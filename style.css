@@ -36,5 +36,6 @@ label span {
     height: 150px;
     background: url(Coffee_01.png);
     background-size: auto 150px;
-    background-repeat: no-repeat;transition: ;
+    background-repeat: no-repeat;
+    transition: ;
 }
