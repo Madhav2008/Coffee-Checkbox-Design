@@ -71,4 +71,4 @@ label text:last-child {
     right: -100px;
 }
 
-label input:checked~text:last-child{}
+label input:checked~text:last-child {}
