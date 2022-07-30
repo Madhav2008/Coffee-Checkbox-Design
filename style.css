@@ -51,4 +51,6 @@ label input:checked~span {
     transform: rotate(360deg);
 }
 
-label text {font-family: consolas;}
+label text {
+    font-family: consolas;
+}
