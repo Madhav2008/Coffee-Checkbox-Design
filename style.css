@@ -26,4 +26,6 @@ label {
     transition: 0.5s;
 }
 
-label input {appearance: none;}
+label input {
+    appearance: none;
+}
