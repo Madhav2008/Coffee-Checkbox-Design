@@ -60,7 +60,9 @@ label text {
     transition: 1.5s;
 }
 
-label input:checked~text {color: #8f8f8f;}
+label input:checked~text {
+    color: #8f8f8f;
+}
 
 label text:last-child {
     position: absolute;
