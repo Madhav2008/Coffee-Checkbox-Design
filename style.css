@@ -61,7 +61,8 @@ label text {
 }
 
 label input:checked~text {
-    color: #8f8f8f;filter: none;
+    color: #8f8f8f;
+    filter: none;
 }
 
 label text:last-child {
