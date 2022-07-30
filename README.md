@@ -1,1 +1,1 @@
-# Coffee-Checkbox Design
+# Coffee Checkbox Design
