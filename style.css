@@ -68,7 +68,8 @@ label input:checked~text {
 label text:last-child {
     position: absolute;
     left: initial;
-    right: -100px;
+    right: -100px;color: #8f8f8f;
+    filter: none;
 }
 
 label input:checked~text:last-child {
