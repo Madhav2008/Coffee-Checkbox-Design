@@ -52,6 +52,6 @@ label input:checked~span {
 }
 
 label text {
-    position: absolute;left: ;
+    position: absolute;left: -100px;
     font-family: consolas;
 }
