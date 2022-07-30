@@ -32,5 +32,6 @@ label input {
 
 label span {
     position: absolute;
-    left: 0;width: 175px;
+    left: 0;
+    width: 175px;
 }
