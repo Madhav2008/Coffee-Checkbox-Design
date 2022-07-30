@@ -56,3 +56,8 @@ label text {
     left: -100px;
     font-family: consolas;
 }
+label text {
+    position: absolute;
+    left: -100px;
+    font-family: consolas;
+}
